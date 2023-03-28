@@ -20,6 +20,7 @@ Also contact with you on Telegram every order and profit.
 * Permanent live rate display in the terminal
 * Auto Take Profit
 * Auto Leverage Adjustment
+* Changeable Pairs (Works with any asset)
 * [live profits](https://discord.gg/6wts7KDE)
 
 ![Alt text](/6.PNG "Bot Daily Orders Message")
@@ -38,7 +39,6 @@ Also contact with you on Telegram every order and profit.
 The things you need before installing the software.
 
 * Python 3.8+
-* Nothing else 
 * Pandas
 * Numpy
 
@@ -54,6 +54,10 @@ Email: [ufukkaan19@hotmail.com](mailto:ufukkaan19@hotmail.com)
 <a name="full-version"/>
  
 ## Full version
+
+First of all our discord community ! 
+
+[Discord](https://discord.gg/6wts7KDE). 
 
 
 [here](https://flbot.sell.app/). 
