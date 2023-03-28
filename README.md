@@ -26,7 +26,7 @@ Also contact with you on Telegram every order and profit.
 
 ![Alt text](/14.PNG "Bot Terminal")
 
-![Alt text](/532.PNG"Bot Telegram Orders Message")
+![Alt text](/532.PNG "Bot Telegram Orders Message")
 
 
 
