@@ -1,7 +1,7 @@
 
 
 
-More than a simple algorithm, [Flavius CryptoCurrency Bots](https://flbot.sell.app/?browse=products&cursor=) This bot uses at least 10 indicators coded with experienced traders (NOT DEFAULT INDICATORS!) and based on the martingale system. It is extremely simple to use. It takes about 5 minutes to install.
+More than a simple algorithm, [Flavius CryptoCurrency Bots](https://flbot.sell.app/?browse=products&cursor=) This bot uses at least 10 indicators coded with experienced traders (NOT DEFAULT INDICATORS!) and based on the martingale system. It is extremely simple to use. 
 
 Also contact with you on Telegram every order and profit.
 
@@ -55,7 +55,7 @@ Email: [ufukkaan19@hotmail.com](mailto:ufukkaan19@hotmail.com)
  
 ## Full version
 
-First of all our discord community ! 
+First of all join our discord community ! 
 
 [Discord](https://discord.gg/6wts7KDE). 
 
