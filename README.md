@@ -39,8 +39,8 @@ Also contact with you on Telegram every order and profit.
 The things you need before installing the software.
 
 * Python 3.8+
-* Pandas
-* Numpy
+* Nothing Else
+
 
  
 ## Contact
@@ -59,6 +59,7 @@ First of all our discord community !
 
 [Discord](https://discord.gg/6wts7KDE). 
 
+And the full version:
 
 [here](https://flbot.sell.app/). 
 
