@@ -21,6 +21,7 @@ Also contact with you on Telegram every order and profit.
 * Auto Take Profit
 * Auto Leverage Adjustment
 
+<img src="6.PNG" alt="Example 1 From Trade Bot" title="Telegram Message">
  
 
 * [live profits](https://discord.gg/6wts7KDE)
