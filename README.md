@@ -13,11 +13,13 @@ Also contact with you on Telegram every order and profit.
  
 ## Features
 
-* Compatible with almost any exchange (all [ccxt](https://github.com/ccxt/ccxt) exchanges).
+* Binance Exchange Support.
 * True trading fees support
-* Zero-risk (no speculation)
-* Full live tracking on Telegram and Discord webhooks
+* Auto Stop - Loss
+* Full live tracking on Telegram 
 * Permanent live rate display in the terminal
+* Auto Take Profit
+* Auto Leverage Adjustment
 
  
 
