@@ -20,11 +20,14 @@ Also contact with you on Telegram every order and profit.
 * Permanent live rate display in the terminal
 * Auto Take Profit
 * Auto Leverage Adjustment
-
-<img src="6.png" alt="Example 1 From Trade Bot" title="Telegram Message">
- 
-
 * [live profits](https://discord.gg/6wts7KDE)
+
+![Alt text](/6.PNG "Bot Daily Orders Message")
+
+![Alt text](/14.PNG "Bot Terminal")
+
+![Alt text](/532.PNG"Bot Telegram Orders Message")
+
 
 
 
